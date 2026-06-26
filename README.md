@@ -1,6 +1,6 @@
 # easier-to-vibe
 
-https://ahseyg81.github.io/easier-to-vibe/
+https://ahseyg.github.io/easier-to-vibe/
 
 "Tired of breaking your coding flow just to copy-paste AI snippets?"
 
